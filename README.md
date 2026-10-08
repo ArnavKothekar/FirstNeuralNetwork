@@ -12,3 +12,5 @@ Git has a security setting where file ownership is required
 Have to manually tell it to ignore this directory, just writing for future note.
 
 git config --global --add safe.directory 'D:/VSCode Files/MachineLearning/FirstNN'
+
+Might be a bad idea, the drive seems to have hiccups sometimes reading/writing. Faulty connection maybe?
